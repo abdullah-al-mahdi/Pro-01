@@ -85,6 +85,10 @@ h1.title.Finished {
    padding-right: 25px;
 }
 
+/* ======================================================| 
+=====| Module Item
+======================================================| */
+
 .module1__item {
    min-height: 300px;
    background-color: #fff;
