@@ -188,19 +188,19 @@ h1.title.Finished {
    font-weight: bold;
 }
 
-.module1__content h2 {
+.module1__item h2 {
    font-size: 18px;
    font-weight: bold;
    color: #2B2B2D;
    margin-bottom: 8px;
 }
 
-.module1__content ul {
+.module1__item ul {
    margin: 0px;
    padding: 0px;
 }
 
-.module1__content ul li {
+.module1__item ul li {
    list-style-type: none;
    display: inline-block;
    position: relative;
@@ -211,7 +211,7 @@ h1.title.Finished {
    color: #6E7276;
 }
 
-.module1__content li::before {
+.module1__item li::before {
    position: absolute;
    font-family: "Font Awesome 6 Free";
    content: '\f0c8';
@@ -223,7 +223,7 @@ h1.title.Finished {
    font-style: normal;
 }
 
-.module1__content li.date::before {
+.module1__item li.date::before {
    content: '\f133';
 }
 
