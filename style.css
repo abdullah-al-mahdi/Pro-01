@@ -246,7 +246,9 @@ h1.title.Finished {
    position: absolute;
    content: '- BEST DAY EVER';
    top: 0px;
-   right: -200px;
+   right: -114px;
+   font-size: 13px;
+  font-style: italic;
 }
 
 /* ======================================================| 
