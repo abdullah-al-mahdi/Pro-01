@@ -240,7 +240,7 @@ h1.title.Finished {
    content: '\f005';
    font-weight: bold;
    color: red;
-   top: -2px;
+   top: -1px;
 }
 
 .module1__item li.top::after {
