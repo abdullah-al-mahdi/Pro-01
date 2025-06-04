@@ -231,15 +231,16 @@ h1.title.Finished {
    content: '\f133';
 }
 
+.module1__item li.top {
+   position: relative;
+   margin-right: 120px;
+}
+
 .module1__item li.top::before {
    content: '\f005';
    font-weight: bold;
    color: red;
-}
-
-.module1__item li.top {
-   position: relative;
-   margin-right: 120px;
+   top: -2px;
 }
 
 .module1__item li.top::after {
