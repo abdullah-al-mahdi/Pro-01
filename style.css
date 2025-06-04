@@ -237,6 +237,17 @@ h1.title.Finished {
    color: red;
 }
 
+.module1__item li.top {
+   position: relative;
+}
+
+.module1__item li.top::after {
+   position: absolute;
+   content: '- BEST DAY EVER';
+   top: 0px;
+   right: -200px;
+}
+
 /* ======================================================| 
 =====| Finished Section
 ======================================================| */
