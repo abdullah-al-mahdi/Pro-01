@@ -245,7 +245,7 @@ h1.title.Finished {
 
 .module1__item li.top::after {
    position: absolute;
-   content: '\27F6 BEST DAY EVER';
+   content: '\2014 BEST DAY EVER';
    top: 0px;
    right: -114px;
    font-size: 13px;
