@@ -237,7 +237,7 @@ h1.title.Finished {
 }
 
 .module1__item li.top::before {
-   content: '\f005';
+   content: '\272F';
    font-weight: bold;
    color: red;
    top: -1px;
