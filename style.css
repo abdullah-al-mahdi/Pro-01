@@ -234,7 +234,6 @@ h1.title.Finished {
 .module1__item li.top {
    position: relative;
    margin-right: 120px;
-   text-decoration: underline;
 }
 
 .module1__item li.top::before {
@@ -246,7 +245,7 @@ h1.title.Finished {
 
 .module1__item li.top::after {
    position: absolute;
-   content: ' - BEST DAY EVER';
+   content: '\27F6 BEST DAY EVER';
    top: 0px;
    right: -114px;
    font-size: 13px;
