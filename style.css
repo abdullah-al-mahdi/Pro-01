@@ -248,7 +248,9 @@ h1.title.Finished {
    top: 0px;
    right: -114px;
    font-size: 13px;
-  font-style: italic;
+   font-style: italic;
+   color: #2B2B2D;
+   font-weight: bolder;
 }
 
 /* ======================================================| 
