@@ -199,6 +199,10 @@ h1.title.Finished {
    margin-bottom: 8px;
 }
 
+.module1__content h2 span span {
+   color: red;
+}
+
 .module1__item ul {
    margin: 0px;
    padding: 0px;
